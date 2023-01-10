@@ -1,0 +1,27 @@
+PyCitySchools_Written_Report 
+
+The analysis included in 'PyCitySchools.ipynb' summarises both the results of the area-wide standardised 
+test results, as well as information on the schools in the local government area whose students participated 
+in the standardised testing.
+
+The analysis includes standardised test results from 39,170 students, from a total of 15 schools. Each 
+student was given two scores (one for maths and one for reading) out of 100. A pass mark is 50 or above.
+
+The schools included in the analysis differed significantly in size, with the largest having 4,976 students, 
+whilst the smallest had only 427 students. The analysis shows that school size was seen to be a predictor of 
+the Overall Passing rate of its students. The 'Scores by School Size (Total Students)' summary table shows 
+that Large schools (2000-5000 students) had a meaningfully lower proportion of students that passed both Maths 
+and Reading, at 70.3%, than did Small schools (< 1000 students) and Medium schools (1000-2000 students), where 
+the proportion of students that passed both Maths and Reading was 79.1% and 78.0%, respectively.
+
+In addition, the Per Student Budget for schools included in the analysis ranged from a minimum of $578 per 
+student to a maximum of $655 per student. In the summary table 'Scores by School Spending', the Per Student 
+Budget of each school fell into one of four categories: less than $585; $585 to $630; $630 to $645; $645 to 
+$680. As can be seen in the 'Scores by School Spending' summary table, students whose schools' per student 
+budgets were in the two lower categories ("less than $585" and "$585 to $630") produced better average maths 
+scores and better average reading scores than schools in the two higher categories ("$630 to $645" and "$645 
+to $680"). The 'Scores by School Spending' summary table also shows that a higher percentage of students whose 
+schools' per student budgets were in the two lower categories passed maths, reading and both maths and reading 
+than did the percentage of students whose schools' per student budgets were in the two higher categories.
+
+END
